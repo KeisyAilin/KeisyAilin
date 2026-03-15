@@ -1,9 +1,4 @@
 # 👋Olá! Eu sou a Keisy!
-- 🎓Estudante de Desenvolvimento de Sistemas
-- 🔎Focado em Python, HTML e CSS
-- 💻Preparando-me para o mercado de tecnologia 
-- 📫Contato: yeiklin35@gmail.com
-
 ## Sobre mim   
 Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas**   
 Sempre atrás de aprender novas tecnologias e boas práticas de programação.   

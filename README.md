@@ -1,8 +1,13 @@
 # 👋Olá! Eu sou a Keisy!
-- 🎓Estudante de Desenvolvimento de Sistemas - 
-- 🔎Focado em Python, HTML e CSS - - 
+- 🎓Estudante de Desenvolvimento de Sistemas
+- 🔎Focado em Python, HTML e CSS
 - 💻Preparando-me para o mercado de tecnologia 
 - 📫Contato: yeiklin35@gmail.com
+
+## Sobre mim   
+Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
+Sempre aprendendo novas tecnologias e boas práticas de programação   
+Interesse especial em **projetos web** e **desenvolvimento front-end**
 
 ## Tecnologias que estudo 
 <div style="display: inline_block"><br> 
@@ -19,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 </div> 
 
 ## Estatisticas do Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeisyAilin&show_icons=true&theme=tokyonight)
 
 ## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keisy-ailin-2727723b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 

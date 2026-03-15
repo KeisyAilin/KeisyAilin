@@ -5,9 +5,9 @@
 - 📫Contato: yeiklin35@gmail.com
 
 ## Sobre mim   
-Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   
-Sempre aprendendo novas tecnologias e boas práticas de programação   
-Interesse especial em **projetos web** e **desenvolvimento front-end**
+Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas**   
+Sempre atrás de aprender novas tecnologias e boas práticas de programação.   
+Tenho interesse em explorar muito mais desta área de desenvolvimentos.
 
 ## Tecnologias que estudo 
 <div style="display: inline_block"><br> 
@@ -19,8 +19,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
 <img align="center" alt="Java" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-<img align="center" alt="Csharp" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
 </div> 
 
 ## Estatisticas do Github
